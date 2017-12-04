@@ -1,0 +1,6 @@
+
+bsquid:UselessImportCheck"@Remove this unused import 'com.droidfreesoft.Product.ProductB1'.(èøàË
+bsquid:UselessImportCheck"@Remove this unused import 'com.droidfreesoft.Product.ProductA1'.(§∑ŸΩ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¥µ≤Á
+csquid:UselessImportCheck"ARemove this unused import 'com.droidfreesoft.Interface.ProductB'.(˝çêú
+csquid:UselessImportCheck"ARemove this unused import 'com.droidfreesoft.Interface.ProductA'.(∏€Ó≈

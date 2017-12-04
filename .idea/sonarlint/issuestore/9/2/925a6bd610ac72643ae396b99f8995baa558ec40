@@ -1,0 +1,7 @@
+
+csquid:UselessImportCheck"ARemove this unused import 'com.droidfreesoft.Interface.ProductA'.(¸ÛîÅ
+csquid:UselessImportCheck"ARemove this unused import 'com.droidfreesoft.Concrete.Concrete1'.(Š¯¬Ê
+csquid:UselessImportCheck"ARemove this unused import 'com.droidfreesoft.Interface.ProductB'.(ıœ
+gsquid:UselessImportCheck"@Remove this unused import 'com.droidfreesoft.Product.ProductB2'.(ÂË­´üÿÿÿÿ
+gsquid:UselessImportCheck"@Remove this unused import 'com.droidfreesoft.Product.ProductA2'.(êÌ—£úÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(´µ²ç
